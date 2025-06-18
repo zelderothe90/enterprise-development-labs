@@ -28,4 +28,4 @@ public class PharmaceuticalGroup
     /// </summary>
     /// <returns>Название фармацевтической группы</returns>
     public override string ToString() => Name ?? string.Empty;
-}
+}//Мой PR
